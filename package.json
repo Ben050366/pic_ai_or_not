@@ -1,9 +1,0 @@
-{
-  "name": "ai-image-detector",
-  "version": "1.0.0",
-  "description": "AI图片检测工具",
-  "dependencies": {
-    "axios": "^1.6.0",
-    "formidable": "^3.5.1"
-  }
-}
